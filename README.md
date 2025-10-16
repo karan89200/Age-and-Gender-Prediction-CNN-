@@ -39,4 +39,4 @@ The dataset used is **UTKFace** (grayscale and color images of faces with age, g
 
 1. Clone the repository:
 ```bash
-git clone <repo-link>
+git clone https://github.com/karan89200/Age-and-Gender-Prediction-CNN-/tree/main
